@@ -1,1 +1,1 @@
-print("Docker run - ConnectPet")
+print("Dockerfile - ConnectPet")
