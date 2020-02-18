@@ -4,3 +4,4 @@ WORKDIR /wise
 COPY requirements.txt notebooks/teste.py   /wise/
 RUN pip install -r  /wise/requirements.txt
 CMD ["python","./teste.py"]
+
