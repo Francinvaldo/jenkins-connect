@@ -1,6 +1,4 @@
 seaborn
 pandas
-#pickle5
-#pickle
 multiprocess
 joblib
